@@ -18,14 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Awesome Blog
+title: SEO, PPC, Social Media & Virtual Assistant Services | Zinzo
 email: zinzodigital@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog powered by Jekyll and hosted on Netlify
+  Grow your business with Zinzo's expert SEO, PPC, social media marketing, and virtual assistant services. Scalable support for entrepreneurs and startups.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://blog.zinzodigital.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
+
+# Add other social handles as custom fields (optional)
+instagram_username: zinzodigital
+facebook_page: zinzodigital
+linkedin_profile: anbumanis
+youtube_channel: zinzodigital
+pinterest_username: zinzodigital
 
 # Build settings
 theme: minima
