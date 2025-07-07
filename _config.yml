@@ -27,11 +27,12 @@ url: "https://blog.zinzodigital.com" # the base hostname & protocol for your sit
 github_username:  jekyll
 
 # Add other social handles as custom fields (optional)
-instagram_username: zinzodigital
-facebook_page: zinzodigital
-linkedin_profile: anbumanis
-youtube_channel: zinzodigital
-pinterest_username: zinzodigital
+social:
+  facebook: https://www.facebook.com/zinzodigital
+  linkedin: https://www.linkedin.com/in/anbumanis
+  youtube: https://www.youtube.com/@zinzodigital
+  instagram: https://www.instagram.com/zinzodigital
+  pinterest: https://www.pinterest.com/zinzodigital
 
 # Build settings
 theme: minima
