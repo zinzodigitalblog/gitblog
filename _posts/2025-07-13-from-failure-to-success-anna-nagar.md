@@ -2,7 +2,7 @@
 
 ## When Traditional Marketing Fails…
 
-In the heart of Chennai’s bustling Anna Nagar, Mr. Rajesh (name changed), a small business owner running a local gift shop, found himself on the verge of shutting down. For over a decade, he had relied heavily on traditional marketing methods like newspaper ads, local hoardings, posters, and flyers. For years, these methods brought in just enough footfall to survive. But as the world moved online, Rajesh’s business slowly started fading away.
+In the heart of Chennai’s bustling Anna Nagar, Mr. Rajesh, a small business owner running a local gift shop, found himself on the verge of shutting down. For over a decade, he had relied heavily on traditional marketing methods like newspaper ads, local hoardings, posters, and flyers. For years, these methods brought in just enough footfall to survive. But as the world moved online, Rajesh’s business slowly started fading away.
 
 The turning point came during early 2024. Despite spending nearly ₹3 lakhs on various local print campaigns and a few radio jingles, the returns were negligible. People were no longer responding to physical ads. The local foot traffic had dropped. Meanwhile, competitors who had a strong online presence were getting more calls, more visits, and more customers — not because they had better products, but because they were visible.
 
